@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+    <string name="order_by_thumb_up_text">Order by Thumbs Up</string>
+    <string name="order_by_thumb_down_text">Order by Thumbs Down</string>
+    <string name="text_hint">Enter word</string>
+    <string name="btn_text">SEARCH</string>
+
+    <string name="order_by_thumb_up_html_green"><![CDATA[<font color=#008577>Order by Thumbs Up</font>]]></string>
+    <string name="order_by_thumb_down_html_green"><![CDATA[<font color=#008577>Order by Thumbs Up</font>]]></string>
+
+    <string name="order_by_thumb_up_html_black"><![CDATA[<font color=#212121>Order by Thumbs Up</font>]]></string>
+    <string name="order_by_thumb_down_html_black"><![CDATA[<font color=#212121>Order by Thumbs Up</font>]]></string>
+    <string name="empty_screen">There is no definition found\n please try again with an other word</string>
+
+</resources>

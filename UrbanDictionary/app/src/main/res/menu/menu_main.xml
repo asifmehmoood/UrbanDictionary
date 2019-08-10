@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.asif.myapplication.MainActivity">
+    <item
+        android:id="@+id/order_by_thumb_down"
+        android:orderInCategory="100"
+        android:title="@string/order_by_thumb_down_text"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/order_by_thumb_up"
+        android:orderInCategory="100"
+        android:title="@string/order_by_thumb_up_text"
+        app:showAsAction="never" />
+</menu>
